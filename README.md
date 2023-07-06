@@ -61,6 +61,6 @@ Se ha implementado el botón que permite eliminar los sistemas de referencias de
 <br />
 <br />
 
-<h1>📌 5. Modo reverso de la rueda de acercamiento</h1>
+<h1>📌 5. Modo reverso de la rueda de acercamiento.</h1>
 
 Está disponible invertir el modo de direccionamiento del acercamiento con la rueda del mouse.
