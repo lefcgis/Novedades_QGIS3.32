@@ -8,6 +8,8 @@ La <b>**Asociación QGIS Perú**</b> promueve el uso y manejo de QGIS en el Per�
 
 **Luis Ferrer 👨‍💻 / Diana Mogrovejo 👩‍💻 - Asociación QGIS Perú**
 
+#ComparteYlibérate
+
 <br />
 <br />
 <br />
