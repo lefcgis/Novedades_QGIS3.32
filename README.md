@@ -45,3 +45,22 @@ Ahora, mientras despliegues el cuadro de diálogo, obtienes:
 <br />
 <br />
 
+<h1>📌 3. Deshabilitar los despliegues de etiquetas personalizadas.</h1>
+
+Además de la previsualización de los despliegues de etiquetas, un nuevo elemento permite deshabilitar estos despliegues para una capa específica.
+
+
+<br />
+<br />
+
+<h1>📌 4. Botón de borrado de CRS.</h1>
+
+Se ha implementado el botón que permite eliminar los sistemas de referencias de coordenadas seleccionados para el QGZ.
+
+
+<br />
+<br />
+
+<h1>📌 5. Modo reverso de la rueda de acercamiento</h1>
+
+Está disponible invertir el modo de direccionamiento del acercamiento con la rueda del mouse.
