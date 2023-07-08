@@ -6,7 +6,7 @@ La <b>**Asociación QGIS Perú**</b> promueve el uso y manejo de QGIS en el Per�
 
 <br />
 
-**Luis Ferrer 👨‍💻 / Diana Mogrovejo 👩‍💻 - Asociación QGIS Perú**
+**Luis Ferrer 👨‍💻 - Asociación QGIS Perú**
 
 #ComparteYlibérate
 
@@ -76,3 +76,4 @@ Está disponible invertir el modo de direccionamiento del acercamiento con la ru
 <h1>📌 6. Implementación de algoritmos de análisis para datos LiDAR.</h1>
 
 Esta nueva versión incluye más de 15 algoritmos para la migración de formatos, cortes, realces, entre otros; para que lo utilices en datos LiDAR.
+
