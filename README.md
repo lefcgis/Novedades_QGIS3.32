@@ -20,6 +20,8 @@ La <b>**Asociación QGIS Perú**</b> promueve el uso y manejo de QGIS en el Per�
  <br />
  👉 [Servicios WFS para descargar información de mapas](https://www.geoidep.gob.pe/catalogo-nacional-de-servicios-web/servicios-de-publicacion-de-objetos-wfs)
  <br />
+  👉 [GenCAT - Institut Cartogràfic i Geològic de Catalunya](https://www.icgc.cat/es/Administracion-y-empresa/Descargas/Elevaciones/Datos-lidar)
+ <br />
  👉 [Asociación QGIS Perú](https://qgis.pe)
  
 <br />
@@ -66,3 +68,11 @@ Se ha implementado el botón que permite eliminar los sistemas de referencias de
 <h1>📌 5. Modo reverso de la rueda de acercamiento.</h1>
 
 Está disponible invertir el modo de direccionamiento del acercamiento con la rueda del mouse.
+
+
+<br />
+<br />
+
+<h1>📌 6. Implementación de algoritmos de análisis para datos LiDAR.</h1>
+
+Esta nueva versión incluye más de 15 algoritmos para la migración de formatos, cortes, realces, entre otros; para que lo utilices en datos LiDAR.
