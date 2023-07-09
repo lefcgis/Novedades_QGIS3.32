@@ -82,3 +82,13 @@ Está disponible invertir el modo de direccionamiento del acercamiento con la ru
 Esta nueva versión incluye más de 15 algoritmos para la migración de formatos, cortes, realces, entre otros; para que lo utilices en datos LiDAR.
 
 ![LiDAR](gifs/6_lidar.gif)
+
+
+<br />
+<br />
+
+<h1>📌 7. Acoplamiento de la ventana 2D Nueva Vista de Mapa.</h1>
+
+Se ha añadido una nueva acción que permite acoplar y desacoplar la vista del lienzo del mapa 2D, lo cual también permite coincidir con el comportamiento de la vista 3D.
+
+![LiDAR](gifs/7_acopl.gif)
