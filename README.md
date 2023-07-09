@@ -27,11 +27,13 @@ La <b>**Asociación QGIS Perú**</b> promueve el uso y manejo de QGIS en el Per�
 <br />
 <br />
 
- <h1># Top 10 nuevas funcionalidades ✨🏆</h1>
+ <h1># Top 10 de nuevas funcionalidades ✨🏆</h1>
 
 <h1>📌 1. Previsualización para el despliegues de etiquetas personalizadas.</h1>
 
 A través de las propiedades de una capa geográfica, ahora podemos previsualizar los atributos personalizados mediante HTML, tanto para datos raster y vectoriales, lo que enriquece la experiencia de diseño cartográfico.
+
+![etiq_pers](gifs/1_etiq_pers.gif)
 
 <br />
 <br />
@@ -42,7 +44,9 @@ Ahora, mientras despliegues el cuadro de diálogo, obtienes:
 - Las columnas X y Y con sus coordenadas respectivas.
 - La primera fila de la tabla solo contiene coordenadas.
 - El prompt del QGIS nos avisa que se ha copiado satisfactoriamente la información.
-- Con el botón "Copy All" obtienes la información total de la medición.
+- Con el botón "Copy" obtienes la información total de la medición.
+
+![copy_coord](gifs/2_CopyCoord.gif)
 
 
 <br />
@@ -52,6 +56,7 @@ Ahora, mientras despliegues el cuadro de diálogo, obtienes:
 
 Además de la previsualización de los despliegues de etiquetas, un nuevo elemento permite deshabilitar estos despliegues para una capa específica.
 
+![desh_etiq](gifs/3_DeshEtiq.gif)
 
 <br />
 <br />
