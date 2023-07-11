@@ -38,6 +38,7 @@ A través de las propiedades de una capa geográfica, ahora podemos previsualiza
 <br />
 <br />
 
+
 <h1>📌 2. Copiar coordenadas a partir de la herramienta Medición.</h1>
 
 Ahora, mientras despliegues el cuadro de diálogo, obtienes:
@@ -48,9 +49,9 @@ Ahora, mientras despliegues el cuadro de diálogo, obtienes:
 
 ![copy_coord](gifs/2_CopyCoord.gif)
 
+<br />
+<br />
 
-<br />
-<br />
 
 <h1>📌 3. Deshabilitar los despliegues de etiquetas personalizadas.</h1>
 
@@ -61,21 +62,26 @@ Además de la previsualización de los despliegues de etiquetas, un nuevo elemen
 <br />
 <br />
 
+
 <h1>📌 4. Botón de borrado de CRS.</h1>
 
 Se ha implementado el botón que permite eliminar los sistemas de referencias de coordenadas seleccionados para el QGZ.
 
+![del_crs](gifs/4_del_crs.gif)
 
 <br />
 <br />
+
 
 <h1>📌 5. Modo reverso de la rueda de acercamiento.</h1>
 
-Está disponible invertir el modo de direccionamiento del acercamiento con la rueda del mouse.
+Ahoa es posible invertir el modo de direccionamiento del acercamiento con la rueda del mouse.
 
+![rev_zoom](gifs/5_rev_zoom.gif)
 
 <br />
 <br />
+
 
 <h1>📌 6. Implementación de algoritmos de análisis para datos LiDAR.</h1>
 
@@ -83,12 +89,24 @@ Esta nueva versión incluye más de 15 algoritmos para la migración de formatos
 
 ![LiDAR](gifs/6_lidar.gif)
 
+<br />
+<br />
 
-<br />
-<br />
 
 <h1>📌 7. Acoplamiento de la ventana 2D Nueva Vista de Mapa.</h1>
 
 Se ha añadido una nueva acción que permite acoplar y desacoplar la vista del lienzo del mapa 2D, lo cual también permite coincidir con el comportamiento de la vista 3D.
 
 ![LiDAR](gifs/7_acopl.gif)
+
+<br />
+<br />
+
+<h1>📌 8. Invertir selección en Rehacer campos.</h1>
+
+Gestionar campos de manera eficiente ahora es posible con esta mejora, que permite la eliminación por lotes de campos específicos.
+
+![rehac_camp](gifs/8_rehac_camp.gif)
+
+<br />
+<br />
