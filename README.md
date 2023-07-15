@@ -110,3 +110,20 @@ Gestionar campos de manera eficiente ahora es posible con esta mejora, que permi
 
 <br />
 <br />
+
+<h1>📌 9. Administrar perfiles.</h1>
+
+Ahora podemos gestionar distintos tipos de perfiles (usuarios) para predefinirlos de manera personalizada. Por ejemplo, podemos ahora añadir un ícono de usuario.
+
+![adm_perf](gifs/9_adm_perf.gif)
+
+<br />
+<br />
+
+<h1>📌 10. Correr comandos desde la consola de Python.</h1>
+
+Nuestra famosa consola ahora ejecuta comandos de IPython con las sintaxis !<cmd>. El acceso a pip ahora es más sencillo.
+
+![console_python](gifs/10_console_python.gif)
+
+
